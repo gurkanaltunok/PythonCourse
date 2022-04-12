@@ -16,9 +16,9 @@ numbers.append(89)
 numbers.insert(3, 78)
 numbers.insert(-1, 52)
 
-# numbers.pop()
-# numbers.pop(0)
-# numbers.remove(9)
+numbers.pop()
+numbers.pop(0)
+numbers.remove(9)
 
 numbers.sort()
 letters.sort()
